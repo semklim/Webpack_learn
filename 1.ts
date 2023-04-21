@@ -1,0 +1,1 @@
+module.exports.str = "Some text";

@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+	"outDir": "./dist/",
+	"noImplicitAny": true,
+    "module": "ES2022",
+    "target": "ES2022",
+    "allowJs": true,
+    "moduleResolution": "node",
+    /* Language and Environment */
+    "esModuleInterop": true,                             /* Emit additional JavaScript to ease support for importing CommonJS 
+    /* Type Checking */
+    "strict": true,                                      /* Enable all strict type-checking options. */
+    "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
+  }
+}
